@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/alanrsoares/elementary2/issues"
   },
-  "homepage": "https://github.com/alanrsoares/elementary2#readme"
+  "homepage": "https://github.com/alanrsoares/elementary2#readme",
+  "devDependencies": {
+    "livescript": "^1.4.0",
+    "webpack": "^1.12.2"
+  }
 }
